@@ -1,0 +1,6 @@
+module Pods_rnhw {
+  umbrella header "Pods-rnhw-umbrella.h"
+
+  export *
+  module * { export * }
+}
